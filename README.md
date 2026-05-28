@@ -10,3 +10,6 @@ Motocar Rental is a UI/UX design project developed as part of the User Interface
 
 ## 🛠️ Tech Stack & Tools
 - Figma (Prototyping & Wireframing)
+
+## 🚀 How to View Project
+You can view the interactive UI prototype directly on Figma via the [Figma Prototype Link](https://www.figma.com/proto/a8wtfUVDUG20nL1rNs811R/MotoCar-Rental-Prototype?node-id=1-15&p=f&t=fb5Mw1DMgmS7wk4j-8&scaling=scale-down&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=1%3A9&hide-ui=1) (Optimized for desktop and mobile responsive view).
